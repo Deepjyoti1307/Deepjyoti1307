@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Tarang](https://github.com/Deepjyoti1307/hult-prize-jadavpur)
 
-- 🌱 I’m currently learning **B.Tech in Computer Science & Engineering**
+- 🌱 I’m currently studying **B.Tech in Computer Science & Engineering**
 
 - 📫 How to reach me **dipudey351@gmail.com**
 
